@@ -2,34 +2,33 @@
 Framework ERP
 
 Data Management ERP PHP
+Description
 
-Descripción
+Welcome to the Data Management ERP PHP repository, a project designed to revolutionize data management in business environments. This system is meticulously crafted to connect a web page schema with a database, thereby facilitating efficient queries and robust user control.
+Key Features
 
-Bienvenido al repositorio de Data Management ERP PHP, un proyecto diseñado para revolucionar la gestión de datos en entornos empresariales. Este sistema está meticulosamente construido para conectar un esquema de páginas web con una base de datos, facilitando así consultas eficientes y un control robusto de usuarios.
-Características Principales
+  Database Integration: Streamlines interaction with databases, optimizing data queries and management.
+  User Control: Manages user access and activities, ensuring a secure and regulated environment.
+  Authentication Middleware: Includes a middleware function that verifies user identity, redirecting to the login page when necessary.
+  Ease of Implementation: Designed for easy integration into existing projects with minimal setup.
 
-  Integración con Base de Datos: Facilita la interacción con bases de datos, optimizando las consultas y el manejo de información.
-  Control de Usuarios: Gestiona el acceso y las actividades de los usuarios, asegurando un entorno seguro y regulado.
-  Middleware de Autenticación: Incluye una función de middleware que verifica la identidad del usuario, redirigiéndolo a la página de inicio de sesión cuando es necesario.
-  Facilidad de Implementación: Diseñado para ser integrado fácilmente en proyectos existentes con mínima configuración.
+Technologies Used
 
-Tecnologías Utilizadas
+This project is developed in PHP, a widely recognized programming language known for its efficiency in web application development.
+Target Audience
 
-El proyecto está desarrollado en PHP, un lenguaje de programación ampliamente reconocido por su eficiencia en el desarrollo de aplicaciones web.
-Público Objetivo
+This system is particularly aimed at businesses seeking to develop or enhance their enterprise software. It's ideal for organizations that require an efficient and secure solution for data management and user control.
+Getting Started
 
-Este sistema está especialmente dirigido a empresas que buscan desarrollar o mejorar su software empresarial. Es ideal para organizaciones que necesitan una solución eficiente y segura para la gestión de datos y control de usuarios.
-Cómo Empezar
+To implement this system in your project:
 
-Para implementar este sistema en tu proyecto:
+  Clone or download this repository.
+  Incorporate the code into your project.
+  Use include_once 'load.php'; in your PHP files. This script loads all necessary functionalities of the system.
 
-  Clona o descarga este repositorio.
-  Incorpora el código en tu proyecto.
-  Utiliza include_once 'load.php'; en tus archivos PHP. Este script carga todas las funcionalidades necesarias del sistema.
+Contributions and Support
 
-Contribuciones y Soporte
+Contributions are welcome. If you have ideas to improve the project or wish to collaborate in its development, feel free to fork and submit your pull requests.
+License
 
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar el proyecto o quieres colaborar en su desarrollo, no dudes en hacer un fork y enviar tus pull requests.
-Licencia
-
-Este proyecto está bajo una licencia libre. Siéntete libre de usarlo, modificarlo y distribuirlo según tus necesidades.
+This project is under a free license. Feel free to use, modify, and distribute it according to your needs.
